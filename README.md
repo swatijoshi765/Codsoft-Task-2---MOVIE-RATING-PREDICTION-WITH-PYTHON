@@ -51,7 +51,7 @@ The model predicts IMDb ratings with an average error of less than 1 star.
 How to Run:
 
 1. Clone the repository  
-   `git clone https://github.com/swatijoshi765/movie-rating-prediction.git`
+   `git clone https://github.com/swatijoshi765/Codsoft-Task-2---MOVIE-RATING-PREDICTION-WITH-PYTHON.git`
 
 2. Install required libraries  
    `pip install pandas numpy scikit-learn`
